@@ -7,5 +7,8 @@ To compile content_shell, you need to obtain libaries listed below from Marvell 
  - libOpenCrypto.so
  - libGtvCa.so
 
+Other source code for ver 1.1:
+    https://www.googledrive.com/host/0B3j4zj2IQp7MdEVqNEN6Szl0MFU/chromecast_v1.1_content_shell.tgz
+
 Other source code for ver 1.0:
     https://www.googledrive.com/host/0B3j4zj2IQp7MRzRYLTZJcTY5LXM/chromecast_v1.0_content_shell.tgz
